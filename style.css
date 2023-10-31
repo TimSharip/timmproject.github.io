@@ -1,0 +1,30 @@
+h1 {
+    font-size: 32px;
+    color: aquamarine;
+    font-family: Roboto;
+}
+
+p {
+    font-size: 14px;
+    color: aqua;
+    font-family: Roboto;
+}
+
+.container {
+    width: 100%;
+    max-width: 1024px; /*максимальная ширина может иметь другое значение*/
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+nav {
+    float: left;
+}
+
+nav ul {
+   margin: 30px;
+}
+
+nav li {
+    display: inline-block;
+}
